@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## Student at [42 Barcelona](https://www.42barcelona.com/es/)
 [![aaespino's 42 stats](https://badge42.herokuapp.com/api/stats/aaespino?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 
