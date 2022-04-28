@@ -1,6 +1,6 @@
 <h1 align="center">Correctness, Design, Style</h1>
 
-![image](https://user-images.githubusercontent.com/95354392/165800770-112dc4be-2447-4a35-82d3-1f6f405d3041.jpeg)
+![1*rQ4kRShH243Ye7cMsHb7xg](https://user-images.githubusercontent.com/95354392/165801956-f608fe73-4450-40d8-be46-d86fba7786dd.png)
 
 
 ## Student at [42 Barcelona](https://www.42barcelona.com/es/)
