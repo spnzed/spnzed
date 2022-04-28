@@ -1,5 +1,5 @@
 <h1 align="center">Correctness, Design, Style</h1>
-![Joost-schmidt-mechanical-stage-design-1925-1926-ink-and-tempera-on-paper-64-x-44-cm1](https://user-images.githubusercontent.com/95354392/165799773-d06ce97f-3b9e-4231-8b59-d33f4ecd1e90.jpg)
+![Joost-schmidt-mechanical-stage-design-1925-1926-ink-and-tempera-on-paper-64-x-44-cm1](https://user-images.githubusercontent.com/95354392/165799856-f17079d8-74cc-45c7-98f8-9ba3b1b3814a.jpg)
 
 
 ## Student at [42 Barcelona](https://www.42barcelona.com/es/)
