@@ -1,6 +1,6 @@
 <h1 align="center">🟡Correctness 🔴Design 🔵Style</h1>
 
-![image](https://user-images.githubusercontent.com/95354392/165802804-c3a4a70c-fac1-466b-ae93-d87116dd579b.png)
+![image](https://user-images.githubusercontent.com/95354392/165802936-06790d38-e706-44b1-8131-242506cf6011.jpeg)
 
 ## Student at [42 Barcelona](https://www.42barcelona.com/es/)
 ![aaespino's 42 stats](https://badge42.vercel.app/api/v2/cl2j116av002509mh2pt2de29/stats?cursusId=21&coalitionId=205)
