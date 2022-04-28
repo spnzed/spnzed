@@ -1,4 +1,4 @@
-<h1 align="center">🟡Correctness 🔴Design 🔵Style</h1>
+🟡Correctness 🔴Design 🔵Style
 
 ![image](https://user-images.githubusercontent.com/95354392/165802936-06790d38-e706-44b1-8131-242506cf6011.jpeg)
 
