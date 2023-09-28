@@ -23,7 +23,7 @@
 | 4   | [get_next_line](https://github.com/spnzed/get_next_line)  | ✅     | Reading a line on a fd is way too tedious | File descriptors, basic parsing, bufferisation |⚙️ Algorithms|
 | 5   | [minitalk](https://github.com/spnzed/minitalk)            | ✅     | Small data exchange program using UNIX signals. | Client and server, UNIX |📶 Signals| 
 | 6   | [so_long](https://github.com/spnzed/so_long)              | 📝     | And thanks for all the fish! | C, Makefile, UX, Videogames |🎮 Graphics|
-| 7   | [push_swap](https://github.com/spnzed/push_swap)          | 📝     | Because swap_push isn’t as natural | Sorting algorithms, basics of stacks manipulations |⚙️ Algorithms|
+| 7   | [push_swap](https://github.com/spnzed/push_swap)          | 📝     | Because swap_push isn’t as natural | Sorting algorithms, basics of stack manipulations |⚙️ Algorithms|
 | 8   | minishell                                                 | 🔒     |
 | 9   | Philosphers                                               | 🔒     |
 | 10B | miniRT                                                    | 🔒     |
