@@ -5,13 +5,13 @@
   ![aaespino's 42 stats](https://badge42.vercel.app/api/v2/cl2j116av002509mh2pt2de29/stats?cursusId=21&coalitionId=205)
 
 ## Current project
-![push_swape](https://github.com/spnzed/spnzed/assets/95354392/59b20f9e-484a-4f43-8a9e-60e6d3369dba)
+
 
 ## Finished Projects 
 
 ![FNqOEPtXoAE8T-K](https://github.com/spnzed/spnzed/assets/95354392/234fbc6e-9289-4055-b7e4-6971edb1ebcd)
 
-![image](https://github.com/spnzed/spnzed/assets/95354392/51a5c74c-9a6b-4ca0-8227-ea15ea3c2139) ![image](https://github.com/spnzed/spnzed/assets/95354392/c15b85a7-b52c-477d-9f96-e1735c1a0b38) ![image](https://github.com/spnzed/spnzed/assets/95354392/6a5db085-f7d9-4741-8426-0a9b38735632) ![image](https://github.com/spnzed/spnzed/assets/95354392/eb92d55c-7ae7-4744-92f1-86d293db0d92) ![image](https://github.com/spnzed/spnzed/assets/95354392/ecf4aa74-1b92-4f2f-8803-2bc41cabaa8a) ![image](https://github.com/spnzed/spnzed/assets/95354392/4ca0beac-8fbd-4e2f-9362-69629887587c)
+![image](https://github.com/spnzed/spnzed/assets/95354392/51a5c74c-9a6b-4ca0-8227-ea15ea3c2139) ![image](https://github.com/spnzed/spnzed/assets/95354392/c15b85a7-b52c-477d-9f96-e1735c1a0b38) ![image](https://github.com/spnzed/spnzed/assets/95354392/6a5db085-f7d9-4741-8426-0a9b38735632) ![image](https://github.com/spnzed/spnzed/assets/95354392/eb92d55c-7ae7-4744-92f1-86d293db0d92) ![image](https://github.com/spnzed/spnzed/assets/95354392/ecf4aa74-1b92-4f2f-8803-2bc41cabaa8a) ![image](https://github.com/spnzed/spnzed/assets/95354392/4ca0beac-8fbd-4e2f-9362-69629887587c)![push_swap](https://github.com/spnzed/spnzed/assets/95354392/59b20f9e-484a-4f43-8a9e-60e6d3369dba)
 
 ## 42cursus Roadmap 
 
