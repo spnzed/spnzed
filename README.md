@@ -5,7 +5,7 @@
 [![aaespino's 42 stats](https://badge.mediaplus.ma/starryblue/aaespino?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ## Current project
-
+![philosopherse](https://github.com/spnzed/spnzed/assets/95354392/66ed3acf-b007-499a-a24c-c7199f79744f)
 
 ## Finished Projects 
 
