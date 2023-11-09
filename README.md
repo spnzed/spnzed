@@ -24,7 +24,7 @@
 | 5   | [minitalk](https://github.com/spnzed/minitalk)            | ✅     | Small data exchange program using UNIX signals. | Client and server, UNIX |📶 Signals| 
 | 6   | [so_long](https://github.com/spnzed/so_long)              | 📝     | And thanks for all the fish! | C, Makefile, UX, Videogames |🎮 Graphics|
 | 7   | [push_swap](https://github.com/spnzed/push_swap)          | ✅     | Because swap_push isn’t as natural. | Sorting algorithms, basics of stack manipulations |⚙️ Algorithms|
-| 8   | [Philosphers](https://github.com/spnzed/Philosophers)     | 🔒     | I’ve never thought philosophy would be so deadly. | ? | ? 
+| 8   | [Philosphers](https://github.com/spnzed/Philosophers)     | 📝     | I’ve never thought philosophy would be so deadly. | ? | ? 
 | 9   | minishell                                                 | 🔒     |
 | 10B | miniRT                                                    | 🔒     |
 | 10A | cub3d                                                     | 🔒     |
