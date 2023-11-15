@@ -19,9 +19,9 @@
 | No  | Project                                                   | Status | Description | Goals | Group |
 | :-: | :-------------------------------------------------------- | :----: | ----------- | :-: | ------- |
 | 1   | [Libft](https://github.com/spnzed/Libft)                  | ✅     | Your very first own library. | Basics of C, static libraries |🚩 Cursus Start|
-| 2   | Born2beroot                                               | ✅     | The wonderful world of virtualization. | Shell, Virtualization |🐚 Shell|
-| 3   | [ft_printf](https://github.com/spnzed/ft_printf)          | ✅     | Because putnbr and putstr aren’t enough. | C, Parsing, variational functions |🚩 Cursus Start|
-| 4   | [get_next_line](https://github.com/spnzed/get_next_line)  | ✅     | Reading a line on a fd is way too tedious. | C, File descriptors, basic parsing, bufferisation |🚩 Cursus Start|
+| 2   | [ft_printf](https://github.com/spnzed/ft_printf)          | ✅     | Because putnbr and putstr aren’t enough. | C, Parsing, variational functions |🚩 Cursus Start|
+| 3   | [get_next_line](https://github.com/spnzed/get_next_line)  | ✅     | Reading a line on a fd is way too tedious. | C, File descriptors, basic parsing, bufferisation |🚩 Cursus Start|
+| 4   | Born2beroot                                               | ✅     | The wonderful world of virtualization. | Shell, Virtualization |🐚 Shell|
 | 5   | [minitalk](https://github.com/spnzed/minitalk)            | ✅     | Small data exchange program using UNIX signals. | C, Client and server, UNIX |📶 Signals| 
 | 6   | [so_long](https://github.com/spnzed/so_long)              | ✅     | And thanks for all the fish! | C, Makefile, UX, Videogames |🎮 Graphics|
 | 7   | [push_swap](https://github.com/spnzed/push_swap)          | ✅     | Because swap_push isn’t as natural. | C, Sorting algorithms, basics of stack manipulations |⚙️ Algorithms|
