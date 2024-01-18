@@ -27,8 +27,7 @@
 | 7   | [push_swap](https://github.com/spnzed/push_swap)          | ✅     | Because swap_push isn’t as natural. | C, Sorting algorithms, basics of stack manipulations |⚙️ Algorithms|
 | 8   | [Philosphers](https://github.com/spnzed/Philosophers)     | 📝     | I’ve never thought philosophy would be so deadly. | C, Process, Mutex, Semaphores |🧵 Threads|
 | 9   | minishell                                                 | 🔒     |
-| 10B | miniRT                                                    | 🔒     |
-| 10A | cub3d                                                     | 🔒     |
+| 10  | cub3d                                                     | 🔒     |
 | 11  | CPP Module 00                                             | 🔒     | 
 | 12  | CPP Module 01                                             | 🔒     |
 | 13  | CPP Module 02                                             | 🔒     |
@@ -40,7 +39,6 @@
 | 19  | CPP Module 08                                             | 🔒     |
 | 20  | NetPractice                                               | 🔒     |
 | 21  | ft_containers                                             | 🔒     |
-| 22A | ft_irc                                                    | 🔒     |
-| 22B | webserv                                                   | 🔒     |
+| 22  | webserv                                                   | 🔒     |
 | 23  | Inception                                                 | 🔒     |
 | 24  | ft_transcendence                                          | 🔒     |
