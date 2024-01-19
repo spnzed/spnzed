@@ -39,8 +39,8 @@
 | 17  | CPP Module 06                                             | 🔒     |
 | 18  | CPP Module 07                                             | 🔒     |
 | 19  | CPP Module 08                                             | 🔒     |
-| 20  | NetPractice                                               | 🔒     |
-| 21  | ft_containers                                             | 🔒     |
+| 20  | CPP Module 09                                             | 🔒     |
+| 21  | NetPractice                                               | 🔒     |
 | 22  | webserv                                                   | 🔒     |
 | 23  | Inception                                                 | 🔒     |
 | 24  | ft_transcendence                                          | 🔒     |
