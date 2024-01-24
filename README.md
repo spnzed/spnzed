@@ -28,7 +28,7 @@
 | 6   | [so_long](https://github.com/spnzed/so_long)              | ✅     | And thanks for all the fish! | C, Makefile, UX, Videogames |🎮 Graphics|
 | 7   | [push_swap](https://github.com/spnzed/push_swap)          | ✅     | Because swap_push isn’t as natural. | C, Sorting algorithms, basics of stack manipulations |⚙️ Algorithms|
 | 8   | [Philosphers](https://github.com/spnzed/Philosophers)     | ✅     | I’ve never thought philosophy would be so deadly. | C, Process, Mutex, Semaphores |🧵 Threads|
-| 9   | [minishell](https://github.com/spnzed/minishell)          | 📝     | As beautiful as shell  | C, Unix logic, Imperative programming, Rigor |🐚 Shell|
+| 9   | [minishell](https://github.com/spnzed/minishell)          | 📝     | As beautiful as shell.  | C, Unix logic, Imperative programming, Rigor |🐚 Shell|
 | 10  | cub3d                                                     | 🔒     |
 | 11  | CPP Module 00                                             | 🔒     | 
 | 12  | CPP Module 01                                             | 🔒     |
