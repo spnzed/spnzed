@@ -32,7 +32,7 @@
 | 8   | [Philosphers](https://github.com/spnzed/Philosophers)     | ✅     | I’ve never thought philosophy would be so deadly. | C, Process, Mutex, Semaphores |🧵 Threads|
 | 9   | [minishell](https://github.com/spnzed/minishell)          | ✅     | As beautiful as shell.  | C, Unix logic, Imperative programming, Rigor | Shell|
 | 10  | [NetPractice](https://github.com/spnzed/Net_Practice)     | 📝     | System Administration exercise.  | Network & system administration, Rigor |🌐 Networking|
-| 11  | cub3d                                                     | 📝     | RayCaster with miniLibX.  | Imperative programming, Rigor, Graphics, Ray-casting |🎮 Graphics|
+| 11  | [cub3D](https://github.com/spnzed/cub3D)                  | 📝     | RayCaster with miniLibX.  | Imperative programming, Rigor, Graphics, Ray-casting |🎮 Graphics|
 | 12  | CPP Module 00                                             | 🔒     | 
 | 13  | CPP Module 01                                             | 🔒     |
 | 14  | CPP Module 02                                             | 🔒     |
