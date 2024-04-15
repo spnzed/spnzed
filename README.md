@@ -5,9 +5,10 @@
 [![aaespino's 42 stats](https://badge.mediaplus.ma/starryblue/aaespino?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spnzed&layout=compact&theme=chartreuse-dark" />
 
-## Current project
+## Current projects
 
-![minishelle](https://github.com/spnzed/spnzed/assets/95354392/d900835b-9cad-4c37-8b37-8ba14c5e38c7)
+![netpracticee](https://github.com/spnzed/spnzed/assets/95354392/83e4bf4f-4317-4311-9563-02ea25aa0fff)
+![cub3de](https://github.com/spnzed/spnzed/assets/95354392/1cae627e-1fa4-4134-807d-887452491d39)
 
 ## Finished Projects 
 
@@ -28,19 +29,19 @@
 | 6   | [so_long](https://github.com/spnzed/so_long)              | ✅     | And thanks for all the fish! | C, Makefile, UX, Videogames |🎮 Graphics|
 | 7   | [push_swap](https://github.com/spnzed/push_swap)          | ✅     | Because swap_push isn’t as natural. | C, Sorting algorithms, basics of stack manipulations |⚙️ Algorithms|
 | 8   | [Philosphers](https://github.com/spnzed/Philosophers)     | ✅     | I’ve never thought philosophy would be so deadly. | C, Process, Mutex, Semaphores |🧵 Threads|
-| 9   | [minishell](https://github.com/spnzed/minishell)          | 📝     | As beautiful as shell.  | C, Unix logic, Imperative programming, Rigor |🐚 Shell|
-| 10  | cub3d                                                     | 🔒     |
-| 11  | CPP Module 00                                             | 🔒     | 
-| 12  | CPP Module 01                                             | 🔒     |
-| 13  | CPP Module 02                                             | 🔒     |
-| 14  | CPP Module 03                                             | 🔒     |
-| 15  | CPP Module 04                                             | 🔒     |
-| 16  | CPP Module 05                                             | 🔒     |
-| 17  | CPP Module 06                                             | 🔒     |
-| 18  | CPP Module 07                                             | 🔒     |
-| 19  | CPP Module 08                                             | 🔒     |
-| 20  | CPP Module 09                                             | 🔒     |
-| 21  | NetPractice                                               | 🔒     |
+| 9   | [minishell](https://github.com/spnzed/minishell)          | ✅     | As beautiful as shell.  | C, Unix logic, Imperative programming, Rigor | Shell|
+| 10  | NetPractice                                               | 📝     | System Administration exercise.  | Network & system administration, Rigor |🌐 Networking|
+| 11  | cub3d                                                     | 📝     | RayCaster with miniLibX.  | Imperative programming, Rigor, Graphics, Ray-casting |🎮 Graphics|
+| 12  | CPP Module 00                                             | 🔒     | 
+| 13  | CPP Module 01                                             | 🔒     |
+| 14  | CPP Module 02                                             | 🔒     |
+| 15  | CPP Module 03                                             | 🔒     |
+| 16  | CPP Module 04                                             | 🔒     |
+| 17  | CPP Module 05                                             | 🔒     |
+| 18  | CPP Module 06                                             | 🔒     |
+| 19  | CPP Module 07                                             | 🔒     |
+| 20  | CPP Module 08                                             | 🔒     |
+| 21  | CPP Module 09                                             | 🔒     |
 | 22  | webserv                                                   | 🔒     |
 | 23  | Inception                                                 | 🔒     |
 | 24  | ft_transcendence                                          | 🔒     |
