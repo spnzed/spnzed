@@ -32,16 +32,7 @@
 | 9   | [minishell](https://github.com/spnzed/minishell)          | ✅     | As beautiful as shell.  | C, Unix logic, Imperative programming, Rigor | Shell|
 | 10  | [NetPractice](https://github.com/spnzed/Net_Practice)     | ✅     | System Administration exercise.  | Network & system administration, Rigor |🌐 Networking|
 | 11  | [cub3D](https://github.com/spnzed/cub3D)                  | 📝     | RayCaster with miniLibX.  | Imperative programming, Rigor, Graphics, Ray-casting |🎮 Graphics|
-| 12  | CPP Module 00                                             | 🔒     | 
-| 13  | CPP Module 01                                             | 🔒     |
-| 14  | CPP Module 02                                             | 🔒     |
-| 15  | CPP Module 03                                             | 🔒     |
-| 16  | CPP Module 04                                             | 🔒     |
-| 17  | CPP Module 05                                             | 🔒     |
-| 18  | CPP Module 06                                             | 🔒     |
-| 19  | CPP Module 07                                             | 🔒     |
-| 20  | CPP Module 08                                             | 🔒     |
-| 21  | CPP Module 09                                             | 🔒     |
-| 22  | webserv                                                   | 🔒     |
-| 23  | Inception                                                 | 🔒     |
-| 24  | ft_transcendence                                          | 🔒     |
+| 12  | CPP Modules (00/09)                                       | 🔒     | 
+| 13  | webserv                                                   | 🔒     |
+| 14  | Inception                                                 | 🔒     |
+| 15  | ft_transcendence                                          | 🔒     |
