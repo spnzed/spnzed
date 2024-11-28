@@ -7,8 +7,8 @@
 
 ## Current projects
 
-![cppe](https://github.com/user-attachments/assets/874008d8-222d-4919-98d4-1fe96c9be9b9)
-![ft_irce](https://github.com/user-attachments/assets/2a27a854-d690-4951-bb39-54de8178aaa5)
+[![image](https://github.com/user-attachments/assets/874008d8-222d-4919-98d4-1fe96c9be9b9)](https://github.com/spnzed/CPP_Modules)
+[![image](https://github.com/user-attachments/assets/2a27a854-d690-4951-bb39-54de8178aaa5)](https://github.com/apresas-97/ft_irc)
 
 ## Finished Projects 
 
