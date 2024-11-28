@@ -14,12 +14,12 @@
 
 ![FNqOEPtXoAE8T-K](https://github.com/spnzed/spnzed/assets/95354392/234fbc6e-9289-4055-b7e4-6971edb1ebcd)
 
-[![image](https://github.com/spnzed/spnzed/assets/95354392/51a5c74c-9a6b-4ca0-8227-ea15ea3c2139)](https://github.com/spnzed/ft_printf)
+[![image](https://github.com/spnzed/spnzed/assets/95354392/51a5c74c-9a6b-4ca0-8227-ea15ea3c2139)](https://github.com/spnzed/Libft)
+[![image](https://github.com/spnzed/spnzed/assets/95354392/eb92d55c-7ae7-4744-92f1-86d293db0d92)](https://github.com/spnzed/ft_printf)
+[![image](https://github.com/spnzed/spnzed/assets/95354392/6a5db085-f7d9-4741-8426-0a9b38735632)]
 [![image](https://github.com/spnzed/spnzed/assets/95354392/c15b85a7-b52c-477d-9f96-e1735c1a0b38)](https://github.com/spnzed/get_next_line)
-[![image](https://github.com/spnzed/spnzed/assets/95354392/6a5db085-f7d9-4741-8426-0a9b38735632)](https://github.com/spnzed/minitalk)
-[![image](https://github.com/spnzed/spnzed/assets/95354392/eb92d55c-7ae7-4744-92f1-86d293db0d92)](https://github.com/spnzed/so_long)
-[![image](https://github.com/spnzed/spnzed/assets/95354392/ecf4aa74-1b92-4f2f-8803-2bc41cabaa8a)](https://github.com/spnzed/push_swap)
-[![image](https://github.com/spnzed/spnzed/assets/95354392/4ca0beac-8fbd-4e2f-9362-69629887587c)](https://github.com/spnzed/Philosophers)
+[![image](https://github.com/spnzed/spnzed/assets/95354392/ecf4aa74-1b92-4f2f-8803-2bc41cabaa8a)](https://github.com/spnzed/minitalk)
+[![image](https://github.com/spnzed/spnzed/assets/95354392/4ca0beac-8fbd-4e2f-9362-69629887587c)](https://github.com/spnzed/push_swap)
 [![image](https://github.com/spnzed/spnzed/assets/95354392/59b20f9e-484a-4f43-8a9e-60e6d3369dba)](https://github.com/spnzed/minishell)
 [![image](https://github.com/spnzed/spnzed/assets/95354392/66ed3acf-b007-499a-a24c-c7199f79744f)](https://github.com/spnzed/Net_Practice)
 [![image](https://github.com/spnzed/spnzed/assets/95354392/65ecb423-ceba-4f65-b088-f07468aab0e2)](https://github.com/spnzed/cub3D)
