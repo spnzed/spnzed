@@ -8,6 +8,7 @@
 ## Current projects
 
 ![cppe](https://github.com/user-attachments/assets/874008d8-222d-4919-98d4-1fe96c9be9b9)
+![ft_irce](https://github.com/user-attachments/assets/2a27a854-d690-4951-bb39-54de8178aaa5)
 
 ## Finished Projects 
 
