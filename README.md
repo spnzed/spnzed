@@ -14,7 +14,6 @@
 
 ![FNqOEPtXoAE8T-K](https://github.com/spnzed/spnzed/assets/95354392/234fbc6e-9289-4055-b7e4-6971edb1ebcd)
 
-[![FNqOEPtXoAE8T-K](https://github.com/spnzed/spnzed/assets/95354392/234fbc6e-9289-4055-b7e4-6971edb1ebcd)](https://github.com/spnzed/Libft)
 [![image](https://github.com/spnzed/spnzed/assets/95354392/51a5c74c-9a6b-4ca0-8227-ea15ea3c2139)](https://github.com/spnzed/ft_printf)
 [![image](https://github.com/spnzed/spnzed/assets/95354392/c15b85a7-b52c-477d-9f96-e1735c1a0b38)](https://github.com/spnzed/get_next_line)
 [![image](https://github.com/spnzed/spnzed/assets/95354392/6a5db085-f7d9-4741-8426-0a9b38735632)](https://github.com/spnzed/minitalk)
