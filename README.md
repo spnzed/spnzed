@@ -24,7 +24,7 @@
 [![image](https://github.com/spnzed/spnzed/assets/95354392/66ed3acf-b007-499a-a24c-c7199f79744f)](https://github.com/spnzed/philosophers)
 [![image](https://github.com/spnzed/spnzed/assets/95354392/65ecb423-ceba-4f65-b088-f07468aab0e2)](https://github.com/spnzed/minishell)
 ![image](https://github.com/user-attachments/assets/98d000c1-714b-45c0-a99d-92072d79f19b)
-[![image]](https://github.com/spnzed/spnzed/assets/95354392/1cae627e-1fa4-4134-807d-887452491d39)](https://github.com/spnzed/cub3D)
+[![image](https://github.com/spnzed/spnzed/assets/95354392/1cae627e-1fa4-4134-807d-887452491d39)](https://github.com/spnzed/cub3D)
 
 
 ## 42cursus Roadmap 
