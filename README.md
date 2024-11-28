@@ -33,6 +33,6 @@
 | 10  | [NetPractice](https://github.com/spnzed/Net_Practice)     | ✅     | System Administration exercise.  | Network & system administration, Rigor |🌐 Networking|
 | 11  | [cub3D](https://github.com/spnzed/cub3D)                  | ✅     | RayCaster with miniLibX.  | Imperative programming, Rigor, Graphics, Ray-casting |🎮 Graphics|
 | 12  | [CPP_Modules](https://github.com/spnzed/CPP_Modules)      | 📝     | Time to dive into Object Oriented Programming | C++, Rigor, Imperative programming, Object-oriented programming |🧩 OOP|
-| 13  | webserv                                                   | 🔒     |
+| 13  | [ft_irc](https://github.com/apresas-97/ft_irc)            | 📝     | Create your own IRC server in C++, fully compatible with an official client. | C++, Rigor, Unix, Network & system administration, Object-oriented programming |💬 Server Development|
 | 14  | Inception                                                 | 🔒     |
 | 15  | ft_transcendence                                          | 🔒     |
