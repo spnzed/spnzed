@@ -7,7 +7,6 @@
 
 ## Current projects
 
-[![image](https://github.com/user-attachments/assets/874008d8-222d-4919-98d4-1fe96c9be9b9)](https://github.com/spnzed/CPP_Modules)
 [![image](https://github.com/user-attachments/assets/2a27a854-d690-4951-bb39-54de8178aaa5)](https://github.com/apresas-97/ft_irc)
 
 ## Finished Projects 
@@ -25,7 +24,7 @@
 [![image](https://github.com/spnzed/spnzed/assets/95354392/65ecb423-ceba-4f65-b088-f07468aab0e2)](https://github.com/spnzed/minishell)
 ![image](https://github.com/user-attachments/assets/98d000c1-714b-45c0-a99d-92072d79f19b)
 [![image](https://github.com/spnzed/spnzed/assets/95354392/1cae627e-1fa4-4134-807d-887452491d39)](https://github.com/spnzed/cub3D)
-
+[![image](https://github.com/user-attachments/assets/874008d8-222d-4919-98d4-1fe96c9be9b9)](https://github.com/spnzed/CPP_Modules)
 
 ## 42cursus Roadmap 
 
@@ -42,7 +41,7 @@
 | 9   | [minishell](https://github.com/spnzed/minishell)          | ✅     | As beautiful as shell.  | C, Unix logic, Imperative programming, Rigor |🐚 Shell|
 | 10  | [NetPractice](https://github.com/spnzed/Net_Practice)     | ✅     | System Administration exercise.  | Network & system administration, Rigor |🌐 Networking|
 | 11  | [cub3D](https://github.com/spnzed/cub3D)                  | ✅     | RayCaster with miniLibX.  | Imperative programming, Rigor, Graphics, Ray-casting |🎮 Graphics|
-| 12  | [CPP_Modules](https://github.com/spnzed/CPP_Modules)      | 📝     | Time to dive into Object Oriented Programming | C++, Rigor, Imperative programming, Object-oriented programming |🧩 OOP|
+| 12  | [CPP_Modules](https://github.com/spnzed/CPP_Modules)      | ✅     | Time to dive into Object Oriented Programming | C++, Rigor, Imperative programming, Object-oriented programming |🧩 OOP|
 | 13  | [ft_irc](https://github.com/apresas-97/ft_irc)            | 📝     | Create your own IRC server in C++, fully compatible with an official client. | C++, Rigor, Unix, Network & system administration, Object-oriented programming |💬 Server Development|
 | 14  | Inception                                                 | 🔒     |
 | 15  | ft_transcendence                                          | 🔒     |
