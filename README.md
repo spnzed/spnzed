@@ -8,7 +8,7 @@ Welcome! I'm Aaron, a **Data Scientist** and **Software Developer** passionate a
 - Build efficient software solutions, drawing on my strong foundation in **C++** and **project-based learning** from 42 School.  
 - Craft clear, impactful visualizations to communicate data-driven strategies.  
 
-🌟 **Why I love it**  
+💡 **What drives me**  
 I thrive on uncovering patterns, answering tough questions, and creating tools that empower decision-making. Combining analytical skills with a developer’s mindset allows me to tackle challenges from every angle.  
 
 📍 **Where I’m based**  
@@ -19,6 +19,8 @@ Feel free to reach out for collaborations, insights, or just to chat about data 
 🌐 [LinkedIn](https://www.linkedin.com/in/aaron-espinosa/)
 
 ## Student at [42 Barcelona](https://www.42barcelona.com/es/)
+
+<div align="center">
 
 ### Current projects
 
@@ -38,6 +40,8 @@ Feel free to reach out for collaborations, insights, or just to chat about data 
 ![image](https://github.com/user-attachments/assets/98d000c1-714b-45c0-a99d-92072d79f19b)
 [![image](https://github.com/spnzed/spnzed/assets/95354392/1cae627e-1fa4-4134-807d-887452491d39)](https://github.com/spnzed/cub3D)
 [![image](https://github.com/user-attachments/assets/874008d8-222d-4919-98d4-1fe96c9be9b9)](https://github.com/spnzed/CPP_Modules)
+
+</div>
 
 ## 42cursus Roadmap 
 
