@@ -1,17 +1,30 @@
+
+# 👨‍💻 Aaron Espinosa  
+
+Welcome! I'm Aaron, a **Data Scientist** and **Software Developer** passionate about solving complex problems at the crossroads of technology and data.  
+
+🔍 **What I do**  
+- Transform raw data into actionable insights using **Python**, **SQL**, and **Machine Learning**.  
+- Build efficient software solutions, drawing on my strong foundation in **C++** and **project-based learning** from 42 School.  
+- Craft clear, impactful visualizations to communicate data-driven strategies.  
+
+🌟 **Why I love it**  
+I thrive on uncovering patterns, answering tough questions, and creating tools that empower decision-making. Combining analytical skills with a developer’s mindset allows me to tackle challenges from every angle.  
+
+📍 **Where I’m based**  
+Barcelona, Spain – collaborating globally to drive innovation and impact.  
+
+💬 **Let’s connect!**  
+Feel free to reach out for collaborations, insights, or just to chat about data and tech!  
+🌐 [LinkedIn](https://www.linkedin.com/in/aaron-espinosa/)
+
 ## Student at [42 Barcelona](https://www.42barcelona.com/es/)
 
-<div align="center">
-  
-[![aaespino's 42 stats](https://badge.mediaplus.ma/starryblue/aaespino?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spnzed&layout=compact&theme=chartreuse-dark" />
-
-## Current projects
+### Current projects
 
 [![image](https://github.com/user-attachments/assets/2a27a854-d690-4951-bb39-54de8178aaa5)](https://github.com/apresas-97/ft_irc)
 
-## Finished Projects 
-
-![FNqOEPtXoAE8T-K](https://github.com/spnzed/spnzed/assets/95354392/234fbc6e-9289-4055-b7e4-6971edb1ebcd)
+### Finished Projects
 
 [![image](https://github.com/spnzed/spnzed/assets/95354392/51a5c74c-9a6b-4ca0-8227-ea15ea3c2139)](https://github.com/spnzed/Libft)
 [![image](https://github.com/spnzed/spnzed/assets/95354392/eb92d55c-7ae7-4744-92f1-86d293db0d92)](https://github.com/spnzed/ft_printf)
@@ -27,6 +40,11 @@
 [![image](https://github.com/user-attachments/assets/874008d8-222d-4919-98d4-1fe96c9be9b9)](https://github.com/spnzed/CPP_Modules)
 
 ## 42cursus Roadmap 
+
+<div align="center">
+
+[![aaespino's 42 stats](https://badge.mediaplus.ma/starryblue/aaespino?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spnzed&layout=compact&theme=chartreuse-dark" />
 
 | No  | Project                                                   | Status | Description | Goals | Group |
 | :-: | :-------------------------------------------------------- | :----: | ----------- | :-: | ------- |
