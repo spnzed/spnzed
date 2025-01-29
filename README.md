@@ -23,7 +23,7 @@ Feel free to reach out for collaborations, insights, or just to chat about data 
 <div align="center">
 
 ### Current projects
-![inceptione](https://github.com/user-attachments/assets/f424d865-65fb-4ab9-9b12-5ba7275eee54)
+[![image](https://github.com/user-attachments/assets/f424d865-65fb-4ab9-9b12-5ba7275eee54)](https://github.com/spnzed/Inception)
 
 ### Finished Projects
 
