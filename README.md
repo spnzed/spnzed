@@ -16,7 +16,7 @@ Barcelona, Spain – collaborating globally to drive innovation and impact.
 
 💬 **Let’s connect!**  
 Feel free to reach out for collaborations, insights, or just to chat about data and tech!  
-🌐 [LinkedIn](https://www.linkedin.com/in/aaron-espinosa/)
+🌐 [LinkedIn](https://www.linkedin.com/in/aaronespinosadata/)
 
 ## Student at [42 Barcelona](https://www.42barcelona.com/es/)
 
