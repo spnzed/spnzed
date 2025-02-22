@@ -23,7 +23,7 @@ Feel free to reach out for collaborations, insights, or just to chat about data 
 <div align="center">
 
 ### Current projects
-[![image](https://github.com/user-attachments/assets/f424d865-65fb-4ab9-9b12-5ba7275eee54)](https://github.com/spnzed/Inception)
+![image](https://github.com/user-attachments/assets/d3833529-3ad4-4465-bd7a-7a6f8660aee7)
 
 ### Finished Projects
 
@@ -40,6 +40,7 @@ Feel free to reach out for collaborations, insights, or just to chat about data 
 [![image](https://github.com/spnzed/spnzed/assets/95354392/1cae627e-1fa4-4134-807d-887452491d39)](https://github.com/spnzed/cub3D)
 [![image](https://github.com/user-attachments/assets/874008d8-222d-4919-98d4-1fe96c9be9b9)](https://github.com/spnzed/CPP_Modules)
 [![image](https://github.com/user-attachments/assets/2a27a854-d690-4951-bb39-54de8178aaa5)](https://github.com/apresas-97/ft_irc)
+[![image](https://github.com/user-attachments/assets/f424d865-65fb-4ab9-9b12-5ba7275eee54)](https://github.com/spnzed/Inception)
 
 </div>
 
@@ -65,5 +66,5 @@ Feel free to reach out for collaborations, insights, or just to chat about data 
 | 11  | [cub3D](https://github.com/spnzed/cub3D)                  | ✅     | RayCaster with miniLibX.  | Imperative programming, Rigor, Graphics, Ray-casting |🎮 Graphics|
 | 12  | [CPP_Modules](https://github.com/spnzed/CPP_Modules)      | ✅     | Time to dive into Object Oriented Programming | C++, Rigor, Imperative programming, Object-oriented programming |🧩 OOP|
 | 13  | [ft_irc](https://github.com/apresas-97/ft_irc)            | ✅     | Create your own IRC server in C++, fully compatible with an official client. | C++, Rigor, Unix, Network & system administration, Object-oriented programming |💬 Server Development|
-| 14  | [Inception](https://github.com/spnzed/Inception)          | 📝     | This project enhances your system administration skills by virtualizing Docker images. | System administration, Rigor, Network & system administration |🖥️ Virtualization & Containers|
-| 15  | ft_transcendence                                          | 🔒     |
+| 14  | [Inception](https://github.com/spnzed/Inception)          | ✅     | This project enhances your system administration skills by virtualizing Docker images. | System administration, Rigor, Network & system administration |🖥️ Virtualization & Containers|
+| 15  | ft_transcendence                                          | 📝     |
